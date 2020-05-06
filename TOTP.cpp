@@ -9,7 +9,7 @@ TOTP::TOTP(uint8_t* hmacKey, int keyLength, int timeStep) {
 	_timeStep = timeStep;
 };
 
-// Init the library with the private key, its length and a time step of 30sec (default for Google Authenticator)
+// Init the library with the private key, its length and a time step of 30sec  
 TOTP::TOTP(uint8_t* hmacKey, int keyLength) {
 
 	_hmacKey = hmacKey;
