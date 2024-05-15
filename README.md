@@ -9,5 +9,5 @@ The code provided in this repository is for demonstration purposes only. It is n
 
 
 ## Credits
-Based on the code from https://github.com/lucadentella/TOTP-Arduino 
-
+Based on the code from [https://github.com/lucadentella/TOTP-Arduino 
+](https://github.com/lucadentella/TOTP-Arduino/blob/master/src/TOTP.cpp)
