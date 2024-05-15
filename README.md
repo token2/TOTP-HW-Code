@@ -6,3 +6,8 @@ This repository contains the C++ source code used in some of our hardware tokens
 
 ## Disclaimer
 The code provided in this repository is for demonstration purposes only. It is not intended for production use without thorough testing and customization to meet specific requirements. The authors and contributors of this code are not responsible for any damages or issues arising from its use.
+
+
+## Credits
+Based on the code from https://github.com/lucadentella/TOTP-Arduino 
+
